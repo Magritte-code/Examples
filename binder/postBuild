@@ -2,5 +2,6 @@
 
 set -e
 
+jupyter lab clean
 
 echo "trying things..."
