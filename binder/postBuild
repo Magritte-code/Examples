@@ -6,6 +6,9 @@ set -e
 # Get Magritte
 git clone https://github.com/UCL/Magritte.git
 
+# Enter the Magritte folder
+cd Magritte
+
 # Install dependencies
 bash install.sh
 
