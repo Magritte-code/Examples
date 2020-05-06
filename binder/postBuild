@@ -14,3 +14,12 @@ bash install.sh
 
 # Compile Magritte for Binder
 bash build.sh binder
+
+# Create and enter a data folder
+cd ../
+mkdir data
+cd data
+
+# Download example model data
+wget https://owncloud.ster.kuleuven.be/index.php/s/wM8WSNbWXyqTYfD/download
+wget https://owncloud.ster.kuleuven.be/index.php/s/jkcrmeRXroCj5yo/download
