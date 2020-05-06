@@ -21,5 +21,5 @@ mkdir data
 cd data
 
 # Download example model data
-wget https://owncloud.ster.kuleuven.be/index.php/s/wM8WSNbWXyqTYfD/download
-wget https://owncloud.ster.kuleuven.be/index.php/s/jkcrmeRXroCj5yo/download
+wget --output-document=sph_erratic_0.hdf5 https://owncloud.ster.kuleuven.be/index.php/s/wM8WSNbWXyqTYfD/download
+wget --output-document=sph_regular_0.hdf5 https://owncloud.ster.kuleuven.be/index.php/s/jkcrmeRXroCj5yo/download
