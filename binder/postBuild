@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# Stop if error
 set -e
 
-echo "trying things..."
+# Get Magritte
+git clone https://github.com/UCL/Magritte.git
+
+# Install dependencies
+bash install.sh
+
+# Compile Magritte for Binder
+bash build.sh binder
