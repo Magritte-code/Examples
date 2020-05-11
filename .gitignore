@@ -3,3 +3,4 @@
 *.log
 *.hdf5
 *.png
+*.ipynb_checkpoints*
