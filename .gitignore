@@ -3,3 +3,7 @@
 *.log
 *.hdf5
 *.png
+*.gif
+*.pdf
+*.jpg
+*.jpeg
