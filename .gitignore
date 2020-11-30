@@ -7,3 +7,4 @@
 *.pdf
 *.jpg
 *.jpeg
+*.ipynb_checkpoints*
