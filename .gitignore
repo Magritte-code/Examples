@@ -1,6 +1,8 @@
 *Magritte*
 *data*
 *.log
+*.vtk
+*.vtu
 *.hdf5
 *.png
 *.gif
